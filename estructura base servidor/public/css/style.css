@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    min-width: 250px;
+    font-family: 'roboto', sans-serif;
+    font-size: 12px;
+    background-color: #ebebeb;
+    margin:auto;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+form {
+    margin: auto;
+}
+
+#video,
+#color,
+#imagen,
+#descripcion{
+    display: none;
+    /* background-color: red; */
+    /* visibility: hidden; */
+}
+
+.visible{
+    display:block
+}
+
+
+
+

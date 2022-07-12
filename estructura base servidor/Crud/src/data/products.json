@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Linkin Park - Metheora",
+        "price": 1100,
+        "description": "from the 2000's",
+        "image": "https://contentv2.tap-commerce.com/cover/large/093624844426_1.jpg?id_com=1156"
+    },
+    {
+        "id": "2",
+        "name": "August Burns Red - Rescue & Restore",
+        "price": 2000,
+        "description": "from the 2010's",
+        "image": "https://i.discogs.com/5nzEWaSgVvIyEkxuPg0gF0zPW-m8B3Xgg_mB6dNl1oU/rs:fit/g:sm/q:90/h:512/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDI0/MzQtMTQ3ODkzNjM5/OC01MzA5LnBuZw.jpeg"
+    },
+    {
+        "id": "3",
+        "name": "Pink Floyd - The dark side of the moon",
+        "price": 3000,
+        "description": "from the 1980's",
+        "image": "https://www.humonegro.com/wp-content/PINK-FLOYD-THE-DARK-SIDE-OF-THE-MOON-560x600.png"
+    }
+]

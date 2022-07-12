@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- <%- include ("../includes/head.ejs") %> -->
+
+<body>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/products/">Products</a>
+        <a href="/products/create">Crear</a>
+    </nav>
+
+    <form action="/produts/save" method="post" enctype="multipart/form-data">
+        <input type="text" id="name" name="name" placeholder="Name" autocomplete="off">
+        <input type="number" id="price" name="price" placeholder="Price" autocomplete="off">
+        <textarea name="description" id="description" placeholder="description"autocomplete="off" cols="30" rows="10"></textarea>
+        <input type="file" name="image" id="image">
+        <button type="submit"> Crear </button>
+    </form>
+</body>
+
+</html>
